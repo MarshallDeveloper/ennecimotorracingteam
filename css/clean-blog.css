@@ -409,13 +409,13 @@ footer .copyright {
   padding: 25px 35px;
 }
 
-.cap5-p {
+.cap-p {
   width: 100%;
   height: 200px;
   padding: 15px 0;
   display: inline-table;
 }
 
-.cap5-p div {
+.cap-p div {
   padding: 0 5px;
 }
